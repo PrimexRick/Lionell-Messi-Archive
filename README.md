@@ -26,5 +26,5 @@ src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=flat&logo=herok
 </p>
 
 ## credits
-1 . [LOST](https://telegram.dog/lost_emotion)
+1 . [LOST](https://telegram.dog/lost_emotion)\n
 2 . [ZORO](https://telegram.dog/immortalsxking)
