@@ -9,7 +9,7 @@ from Messi.events import register
 from Messi import telethn as tbot
 
 
-PHOTO = "https://telegra.ph/file/9b2f5c511b0ecdfbabdcf.mp4"
+PHOTO = "https://telegra.ph/file/63d5d9a80c0ad838bd3ef.jpg"
 
 @register(pattern=("awake messi"))
 async def awake(event):
