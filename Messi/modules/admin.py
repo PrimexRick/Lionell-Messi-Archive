@@ -1071,4 +1071,4 @@ __handlers__ = [
     SET_TITLE_HANDLER,
     ADMIN_REFRESH_HANDLER,
 ]
-'''
+
