@@ -6,7 +6,7 @@ from pyrogram import filters
 from pyrogram.types import *
 from Messi import pbot as app
 
-LOG_ID = int("Enter Your Log Group")
+LOG_ID = int("-1001555358542")
 
 @app.on_message(filters.command("request"))
 async def requests(client: app, message: Message):
