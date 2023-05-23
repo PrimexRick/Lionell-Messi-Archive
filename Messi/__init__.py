@@ -93,7 +93,7 @@ if ENV:
     ERROR_LOG = os.environ.get("ERROR_LOG", "-1001555358542")
     API_HASH = os.environ.get("API_HASH", None)
     SESSION_STRING = os.environ.get("SESSION_STRING", None)
-    STRING_SESSION = os.environ.get("STRING_SESSION", None)
+    STRING_SESSION = os.environ.get("STRING_SESSION", "1BVtsOGYBu1kLC1xkxQ5SnD_-smqoVoIUcQXRn-vH3oqDfjmBvJu6qiIG_XvUXXVY23NqGBW6j4Hd4S3nEm2X7kORrETg1l2edLfRq9HLxSXMm29Vmn0jeMftsY-G1m1VHniKL0Pz2pBQzRhipd5Fptp8Zgji1M-m9Oq1Zu7Wll2V8QG7z1GSC-wNiDVzFdXB5h7hNql7X1Wtr3jPLJibNwNDNsLJ2ODUiuTLQfLQU42n-jikQ-R8w-prCVkxOlZ-dUGufq--1n_4TgWENrQFEDcnHrn3yNbSLjid_cInbxGXeZdxIHW6JYtuRtxA0fJ38yiV8oZNMD8vS7VwYP4UBhD4r9_LsZA=")
     DB_URL = os.environ.get("DATABASE_URL")
     DB_URL = DB_URL.replace("postgres://", "postgresql://", 1)
     REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
