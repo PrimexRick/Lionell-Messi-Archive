@@ -40,7 +40,7 @@ logging.getLogger('ptbcontrib.postgres_persistence.postgrespersistence').setLeve
 LOGGER = logging.getLogger('[Messi]')
 LOGGER.info("Messi. | A Hashira Project Part. | Licensed under GPLv3.")
 LOGGER.info("Not affiliated to other anime or Villain in any way whatsoever.")
-LOGGER.info("Project maintained by: github.com/kennedy-ex (t.me/excrybaby)")
+LOGGER.info("Project maintained by: github.com/primexrick (t.me/Lost_Emotion)")
 
 # if version < 3.9, stop bot.
 if sys.version_info[0] < 3 or sys.version_info[1] < 8:

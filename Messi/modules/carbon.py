@@ -38,8 +38,9 @@ async def repo(_, message):
 **Telethon Version :** `{s}`
 **Pyrogram Version :** `{z}`
 ** My collaborators**
-** 1) [♤](https://t.me/rickz_2005)**
-** 1) [♤](https://t.me/ricks_005)**
+** 1) [Flame](https://t.me/rickz_2005)**
+** 1) [Alpha](https://t.me/immortalsxking)**
+** 2) [Ds x Hashira](https://t.me/ricks_005)**
 
 **Sorry but the repo is not available till the bot reaches 100 chats**
 """,
